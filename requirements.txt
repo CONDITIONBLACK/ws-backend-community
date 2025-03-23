@@ -77,4 +77,4 @@ zope.interface==4.4.0
 kombu==3.0.37
 google-cloud-pubsub==0.28.3
 google-cloud-storage==1.4.0
-grpcio==1.4.0
+grpcio==1.58.3
